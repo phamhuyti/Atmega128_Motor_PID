@@ -1,0 +1,11 @@
+Added Pin To Net: NetName=PE4 Pin=EnA-1
+Added Pin To Net: NetName=PC0 Pin=Input_L298-1
+Added Pin To Net: NetName=PC1 Pin=Input_L298-2
+Added Pin To Net: NetName=DC SUPPLY + Pin=OutputA-1
+Added Pin To Net: NetName=DC SUPPLY - Pin=OutputA-2
+Added Pin To Net: NetName=GND Pin=Power12V-2
+Added Pin To Net: NetName=GND Pin=PowerNeed-2
+Added Pin To Net: NetName=12V+ Pin=Power12V-1
+Added Pin To Net: NetName=12V+ Pin=PowerNeed-1
+Added Net: Name=12V+
+Added Room: Name=Sheet1

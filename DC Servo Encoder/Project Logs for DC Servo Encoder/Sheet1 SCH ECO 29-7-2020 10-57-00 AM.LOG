@@ -1,0 +1,16 @@
+Change Component Designator: Old Designator=12V Power Supply New Designator=1
+Change Component Designator: Old Designator=ADC New Designator=ADC1
+Change Component Designator: Old Designator=DC Motor New Designator=DC Motor1
+Change Component Designator: Old Designator=Direction New Designator=Direction1
+Change Component Designator: Old Designator=Duty Cycle New Designator=Duty Cycle1
+Change Component Designator: Old Designator=EXT.Memory New Designator=EXT.Memory1
+Change Component Designator: Old Designator=GPIO New Designator=GPIO1
+Change Component Designator: Old Designator=I2C New Designator=I1
+Change Component Part ID : Designator=IC1 Old Part ID =1 New Part ID =2
+Change Component Designator: Old Designator=Input_L298 New Designator=Input_L1
+Change Component Designator: Old Designator=LCD16x2 New Designator=LCD1
+Change Component Designator: Old Designator=LCD New Designator=LCD2
+Change Component Designator: Old Designator=NOT New Designator=NOT1
+Change Component Designator: Old Designator=OutputA_L298 New Designator=OutputA_L1
+Change Component Designator: Old Designator=Power_L298 New Designator=Power_L1
+Change Component Designator: Old Designator=SPI New Designator=SPI1

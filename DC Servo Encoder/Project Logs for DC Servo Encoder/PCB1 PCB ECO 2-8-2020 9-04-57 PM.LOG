@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=12V+ Pin=PowerNeed-1
+Change Component Designator: OldDesignator= NewDesignator=OutputA
+Added Pin To Net: NetName=12V+ Pin=PowerNeed-3
+Added Room: Name=Sheet1

@@ -1,0 +1,3 @@
+Change Component Designator: OldDesignator= NewDesignator=OutputB
+Added Pin To Net: NetName=PE5 Pin=DC Motor1-4
+Added Room: Name=Sheet1

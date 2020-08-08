@@ -1,0 +1,4 @@
+Removed Member From Class: ClassName=Sheet1 Member=Power 12V
+Added Component: Designator=Power12V(Header2)
+Added Member To Class: ClassName=Sheet1 Member=Component Power12V 
+Added Room: Name=Sheet1

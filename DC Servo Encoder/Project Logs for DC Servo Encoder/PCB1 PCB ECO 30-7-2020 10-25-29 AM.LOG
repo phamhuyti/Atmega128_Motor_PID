@@ -1,0 +1,8 @@
+Change Component Designator: OldDesignator= NewDesignator=LCD
+Added Pin To Net: NetName=VCC Pin=ADC-3
+Added Pin To Net: NetName=GND Pin=ADC-4
+Added Pin To Net: NetName=VCC Pin=GPIO-4
+Added Pin To Net: NetName=GND Pin=GPIO-5
+Added Pin To Net: NetName=VCC Pin=SPI-3
+Added Pin To Net: NetName=GND Pin=SPI-4
+Added Room: Name=Sheet1

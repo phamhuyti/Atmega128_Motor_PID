@@ -1,0 +1,168 @@
+Added Component: Designator=12V Power Supply(JP2-C1T)
+Added Component: Designator=ADC(JP3-D2T)
+Added Component: Designator=AND1(DIP14)
+Added Component: Designator=AND(DIP14)
+Added Component: Designator=DC Motor(J6-C1T)
+Added Component: Designator=Direction(SW-DIP1)
+Added Component: Designator=Duty Cycle(VR-S1)
+Added Component: Designator=EXT.Memory(J12-D2T)
+Added Component: Designator=GPIO(J4-D2T)
+Added Component: Designator=I2C(JP2-D2C)
+Added Component: Designator=Input_L298(JP4-C1T)
+Added Component: Designator=LCD16x2(LCD16X2)
+Added Component: Designator=LCD(VR-S1)
+Added Component: Designator=NOT(DIP14)
+Added Component: Designator=OutputA_L298(JP2-C1T)
+Added Component: Designator=Power_L298(JP3-C1T)
+Added Component: Designator=R1(RES-1/2W)
+Added Component: Designator=SPI(JP3-D2T)
+Added Pin To Net: NetName=+12V Pin=12V Power Supply-2
+Added Pin To Net: NetName=+12V Pin=Power_L298-1
+Added Net: Name=+12V
+Added Pin To Net: NetName=-12V Pin=12V Power Supply-1
+Added Pin To Net: NetName=-12V Pin=Power_L298-2
+Added Net: Name=-12V
+Added Pin To Net: NetName=DC SUPPLY + Pin=DC Motor-1
+Added Pin To Net: NetName=DC SUPPLY + Pin=OutputA_L298-2
+Added Net: Name=DC SUPPLY +
+Added Pin To Net: NetName=DC SUPPLY - Pin=DC Motor-6
+Added Pin To Net: NetName=DC SUPPLY - Pin=OutputA_L298-1
+Added Net: Name=DC SUPPLY -
+Added Pin To Net: NetName=ENCODER B Pin=DC Motor-4
+Added Net: Name=ENCODER B
+Added Pin To Net: NetName=GND Pin=ADC-4
+Added Pin To Net: NetName=GND Pin=AND1-7
+Added Pin To Net: NetName=GND Pin=AND-7
+Added Pin To Net: NetName=GND Pin=DC Motor-2
+Added Pin To Net: NetName=GND Pin=Direction-1
+Added Pin To Net: NetName=GND Pin=Duty Cycle-3
+Added Pin To Net: NetName=GND Pin=GPIO-5
+Added Pin To Net: NetName=GND Pin=I2C-1
+Added Pin To Net: NetName=GND Pin=LCD16x2-1
+Added Pin To Net: NetName=GND Pin=LCD16x2-1
+Added Pin To Net: NetName=GND Pin=LCD16x2-1
+Added Pin To Net: NetName=GND Pin=LCD16x2-1
+Added Pin To Net: NetName=GND Pin=LCD16x2-1
+Added Pin To Net: NetName=GND Pin=LCD16x2-16
+Added Pin To Net: NetName=GND Pin=LCD-3
+Added Pin To Net: NetName=GND Pin=NOT-7
+Added Pin To Net: NetName=GND Pin=SPI-4
+Added Net: Name=GND
+Added Pin To Net: NetName=INPUT1 Pin=AND1-3
+Added Pin To Net: NetName=INPUT1 Pin=Input_L298-1
+Added Net: Name=INPUT1
+Added Pin To Net: NetName=INPUT2 Pin=AND-6
+Added Pin To Net: NetName=INPUT2 Pin=Input_L298-2
+Added Net: Name=INPUT2
+Added Pin To Net: NetName=INPUT3 Pin=Input_L298-3
+Added Net: Name=INPUT3
+Added Pin To Net: NetName=INPUT4 Pin=Input_L298-4
+Added Net: Name=INPUT4
+Added Pin To Net: NetName=NetAND1_1 Pin=AND1-1
+Added Pin To Net: NetName=NetAND1_1 Pin=NOT-2
+Added Net: Name=NetAND1_1
+Added Pin To Net: NetName=NetLCD16x2_3 Pin=LCD16x2-3
+Added Pin To Net: NetName=NetLCD16x2_3 Pin=LCD-2
+Added Net: Name=NetLCD16x2_3
+Added Pin To Net: NetName=PA0/AD0 Pin=EXT.Memory-1
+Added Pin To Net: NetName=PA0/AD0 Pin=LCD16x2-4
+Added Net: Name=PA0/AD0
+Added Pin To Net: NetName=PA1/AD1 Pin=EXT.Memory-24
+Added Pin To Net: NetName=PA1/AD1 Pin=LCD16x2-5
+Added Net: Name=PA1/AD1
+Added Pin To Net: NetName=PA2/AD2 Pin=EXT.Memory-2
+Added Pin To Net: NetName=PA2/AD2 Pin=LCD16x2-6
+Added Net: Name=PA2/AD2
+Added Pin To Net: NetName=PA3/AD3 Pin=EXT.Memory-23
+Added Net: Name=PA3/AD3
+Added Pin To Net: NetName=PA4/AD4 Pin=EXT.Memory-3
+Added Pin To Net: NetName=PA4/AD4 Pin=LCD16x2-11
+Added Net: Name=PA4/AD4
+Added Pin To Net: NetName=PA5/AD5 Pin=EXT.Memory-22
+Added Pin To Net: NetName=PA5/AD5 Pin=LCD16x2-12
+Added Net: Name=PA5/AD5
+Added Pin To Net: NetName=PA6/AD6 Pin=EXT.Memory-4
+Added Pin To Net: NetName=PA6/AD6 Pin=LCD16x2-13
+Added Net: Name=PA6/AD6
+Added Pin To Net: NetName=PA7/AD7 Pin=EXT.Memory-21
+Added Pin To Net: NetName=PA7/AD7 Pin=LCD16x2-14
+Added Net: Name=PA7/AD7
+Added Pin To Net: NetName=PB0 Pin=SPI-1
+Added Net: Name=PB0
+Added Pin To Net: NetName=PB1 Pin=SPI-6
+Added Net: Name=PB1
+Added Pin To Net: NetName=PB2 Pin=SPI-2
+Added Net: Name=PB2
+Added Pin To Net: NetName=PB3 Pin=SPI-5
+Added Net: Name=PB3
+Added Pin To Net: NetName=PC0 Pin=AND-5
+Added Pin To Net: NetName=PC0 Pin=EXT.Memory-5
+Added Pin To Net: NetName=PC0 Pin=NOT-1
+Added Net: Name=PC0
+Added Pin To Net: NetName=PC1 Pin=EXT.Memory-20
+Added Net: Name=PC1
+Added Pin To Net: NetName=PC2 Pin=EXT.Memory-6
+Added Net: Name=PC2
+Added Pin To Net: NetName=PC3 Pin=EXT.Memory-19
+Added Net: Name=PC3
+Added Pin To Net: NetName=PC4 Pin=EXT.Memory-7
+Added Net: Name=PC4
+Added Pin To Net: NetName=PC5 Pin=EXT.Memory-18
+Added Net: Name=PC5
+Added Pin To Net: NetName=PC6 Pin=EXT.Memory-8
+Added Net: Name=PC6
+Added Pin To Net: NetName=PC7 Pin=EXT.Memory-17
+Added Net: Name=PC7
+Added Pin To Net: NetName=PD0 Pin=Direction-2
+Added Pin To Net: NetName=PD0 Pin=I2C-3
+Added Pin To Net: NetName=PD0 Pin=R1-2
+Added Net: Name=PD0
+Added Pin To Net: NetName=PD1 Pin=DC Motor-3
+Added Pin To Net: NetName=PD1 Pin=I2C-2
+Added Net: Name=PD1
+Added Pin To Net: NetName=PE2 Pin=GPIO-1
+Added Net: Name=PE2
+Added Pin To Net: NetName=PE3 Pin=GPIO-8
+Added Net: Name=PE3
+Added Pin To Net: NetName=PE4 Pin=AND1-2
+Added Pin To Net: NetName=PE4 Pin=AND-4
+Added Pin To Net: NetName=PE4 Pin=GPIO-2
+Added Net: Name=PE4
+Added Pin To Net: NetName=PE5 Pin=GPIO-7
+Added Net: Name=PE5
+Added Pin To Net: NetName=PE6 Pin=GPIO-3
+Added Net: Name=PE6
+Added Pin To Net: NetName=PE7 Pin=GPIO-6
+Added Net: Name=PE7
+Added Pin To Net: NetName=PF0/ADC0 Pin=ADC-1
+Added Pin To Net: NetName=PF0/ADC0 Pin=Duty Cycle-2
+Added Net: Name=PF0/ADC0
+Added Pin To Net: NetName=PF1/ADC1 Pin=ADC-6
+Added Net: Name=PF1/ADC1
+Added Pin To Net: NetName=PF2/ADC2 Pin=ADC-2
+Added Net: Name=PF2/ADC2
+Added Pin To Net: NetName=PF3/ADC3 Pin=ADC-5
+Added Net: Name=PF3/ADC3
+Added Pin To Net: NetName=PG0 Pin=EXT.Memory-9
+Added Net: Name=PG0
+Added Pin To Net: NetName=PG1 Pin=EXT.Memory-16
+Added Net: Name=PG1
+Added Pin To Net: NetName=PG2 Pin=EXT.Memory-10
+Added Net: Name=PG2
+Added Pin To Net: NetName=VCC Pin=ADC-3
+Added Pin To Net: NetName=VCC Pin=AND1-14
+Added Pin To Net: NetName=VCC Pin=AND-14
+Added Pin To Net: NetName=VCC Pin=DC Motor-5
+Added Pin To Net: NetName=VCC Pin=Duty Cycle-1
+Added Pin To Net: NetName=VCC Pin=GPIO-4
+Added Pin To Net: NetName=VCC Pin=I2C-4
+Added Pin To Net: NetName=VCC Pin=LCD16x2-2
+Added Pin To Net: NetName=VCC Pin=LCD16x2-15
+Added Pin To Net: NetName=VCC Pin=LCD-1
+Added Pin To Net: NetName=VCC Pin=NOT-14
+Added Pin To Net: NetName=VCC Pin=Power_L298-3
+Added Pin To Net: NetName=VCC Pin=R1-1
+Added Pin To Net: NetName=VCC Pin=SPI-3
+Added Net: Name=VCC
+Added Class: Name=Sheet1
+Added Room: Name=Sheet1

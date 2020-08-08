@@ -1,0 +1,41 @@
+Removed Pin From Net: NetName=PE4 Pin=AND1-2
+Removed Pin From Net: NetName=INPUT1 Pin=AND1-3
+Removed Pin From Net: NetName=GND Pin=AND1-7
+Removed Pin From Net: NetName=VCC Pin=AND1-14
+Removed Pin From Net: NetName=PE4 Pin=AND-4
+Removed Pin From Net: NetName=PC0 Pin=AND-5
+Removed Pin From Net: NetName=INPUT2 Pin=AND-6
+Removed Pin From Net: NetName=GND Pin=AND-7
+Removed Pin From Net: NetName=VCC Pin=AND-14
+Removed Member From Class: ClassName=Sheet1 Member=AND1
+Removed Member From Class: ClassName=Sheet1 Member=AND
+Removed Member From Class: ClassName=Sheet1 Member=LCD16x2
+Change Component DesignItemId : Designator=GPIO Old DesignItemId=JP4x2-2.0 New DesignItemId=JP4x2
+Change Component DesignItemId : Designator=EXT.Memory Old DesignItemId=JP12x2-2.0 New DesignItemId=JP12x2
+Change Component Footprint: Designator=GPIO Old Footprint=J4-D2T New Footprint=JP4-C2T
+Change Component Footprint: Designator=EXT.Memory Old Footprint=J12-D2T New Footprint=JP12-C2T
+Change Component Footprint: Designator=I2C Old Footprint=JP2-D2C New Footprint=JP2-C2T
+Change Component Footprint: Designator=ADC Old Footprint=JP3-D2T New Footprint=JP3-C2T
+Change Component Footprint: Designator=SPI Old Footprint=JP3-D2T New Footprint=JP3-C2T
+Change Component Designator: OldDesignator=12V Power Supply NewDesignator=Power 12V
+Change Component Designator: OldDesignator=DC Motor NewDesignator=DC Motor1
+Change Component Designator: OldDesignator=Direction NewDesignator=Direction1
+Change Component Designator: OldDesignator=Duty Cycle NewDesignator=DutyCycle_Res
+Change Component Designator: OldDesignator=LCD16x2 NewDesignator=LCD
+Change Component Designator: OldDesignator=LCD NewDesignator=LCD_Res
+Change Component Designator: OldDesignator=NOT NewDesignator=NOT1
+Added Component: Designator=IC1(DIP14)
+Added Pin To Net: NetName=PE4 Pin=IC1-2
+Added Pin To Net: NetName=INPUT1 Pin=IC1-3
+Added Pin To Net: NetName=PE4 Pin=IC1-4
+Added Pin To Net: NetName=PC0 Pin=IC1-5
+Added Pin To Net: NetName=INPUT2 Pin=IC1-6
+Added Pin To Net: NetName=GND Pin=IC1-7
+Added Pin To Net: NetName=VCC Pin=IC1-14
+Change Net Name : Old Net Name=NetLCD16x2_3 New Net Name=NetLCD_3
+Added Pin To Net: NetName=NetIC1_1 Pin=IC1-1
+Added Pin To Net: NetName=NetIC1_1 Pin=NOT1-2
+Added Net: Name=NetIC1_1
+Added Member To Class: ClassName=Sheet1 Member=Component IC1 7408
+Added Member To Class: ClassName=Sheet1 Member=Component LCD_Res 10K
+Added Room: Name=Sheet1

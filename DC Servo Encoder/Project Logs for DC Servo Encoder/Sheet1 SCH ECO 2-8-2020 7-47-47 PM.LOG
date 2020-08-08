@@ -1,0 +1,8 @@
+Remove Pin=DC Motor1-4 From Net=PE5
+Remove Pin=EnA-1 From Net=PE4
+Remove Pin=Input_L298-1 From Net=PC0
+Remove Pin=Input_L298-2 From Net=PC1
+Remove Pin=OutputA-1 From Net=DC SUPPLY +
+Remove Pin=OutputA-2 From Net=DC SUPPLY -
+Remove Pin=PowerNeed-1 From Net=+12V
+Remove Pin=PowerNeed-2 From Net=GND

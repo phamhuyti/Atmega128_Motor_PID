@@ -1,0 +1,27 @@
+Removed Pin From Net: NetName=PE4 Pin=IC1-2
+Removed Pin From Net: NetName=PE4 Pin=IC1-4
+Removed Pin From Net: NetName=PC0 Pin=IC1-5
+Removed Pin From Net: NetName=GND Pin=IC1-7
+Removed Pin From Net: NetName=VCC Pin=IC1-14
+Removed Pin From Net: NetName=PC0 Pin=NOT1-1
+Removed Pin From Net: NetName=GND Pin=NOT1-7
+Removed Pin From Net: NetName=VCC Pin=NOT1-14
+Removed Pin From Net: NetName=DC SUPPLY - Pin=OutputA_L298-1
+Removed Pin From Net: NetName=DC SUPPLY + Pin=OutputA_L298-2
+Removed Pin From Net: NetName=+12V Pin=Power_L298-1
+Removed Pin From Net: NetName=-12V Pin=Power_L298-2
+Removed Pin From Net: NetName=VCC Pin=Power_L298-3
+Added Component: Designator=EnA(JP2-D1T)
+Added Component: Designator=EnB(JP2-D1T)
+Added Component: Designator=OutputA(Header2)
+Added Component: Designator=OutputB(Header2)
+Added Component: Designator=PowerNeed(HDR3)
+Added Pin To Net: NetName=ENA2 Pin=EnA-2
+Added Net: Name=ENA2
+Added Member To Class: ClassName=Sheet1 Member=Component EnA 
+Added Member To Class: ClassName=Sheet1 Member=Component EnB 
+Added Member To Class: ClassName=Sheet1 Member=Component Input_L298 
+Added Member To Class: ClassName=Sheet1 Member=Component OutputA 
+Added Member To Class: ClassName=Sheet1 Member=Component OutputB 
+Added Member To Class: ClassName=Sheet1 Member=Component PowerNeed 
+Added Room: Name=Sheet1
